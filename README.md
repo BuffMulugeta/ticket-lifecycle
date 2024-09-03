@@ -6,9 +6,7 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,26 +27,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![13](https://github.com/user-attachments/assets/b25a1b0f-c854-40d0-bdb6-a4dc31b5fbac)
+
+End user logs on to Support Center to open a new ticket. Login may be required depending on portal setup. 
+
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![14](https://github.com/user-attachments/assets/27c51815-be4b-41ef-9d15-dbce253df3dd)
+
+End user enters in Contact Information, Help Topic, Issue Summary, and any available additional comments/information pertinent to the issue.
+
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![15](https://github.com/user-attachments/assets/847a77ff-c11c-4ba7-a6fc-87d0ebc103b2)
+
+![16](https://github.com/user-attachments/assets/c0c0b81b-f49c-43f3-a645-24262b20c6b2)
+
+Help desk employee recieves ticket, and assigns ticket to appropirate party.
+
 <br />
+<br />
+
+![17](https://github.com/user-attachments/assets/d25284d6-a439-46a3-ba52-2bfbdbb7537f)
+
+Help desk employee updates ticket, issues update to End User. 
+
+<br />
+<br />
+
+![18](https://github.com/user-attachments/assets/98d824cb-8de9-4f61-b8e0-c0f144bef27b)
+
+Help desk employee resolves issue, then updates End User and closes Ticket.
+
+<br />
+<br />
+
+![19](https://github.com/user-attachments/assets/87474361-e4d4-4e38-a272-db9d201177ba)
+
+Ticket has been removed from Open Ticket que. 
+
+**Note In some instances issue are resolved quickly, but in other instances resolution can take hours, days, or even weeks. In the instances where it takes a longer amount of time it is a best practice to update End User/Notes on ticket periodically often based by Standard Operating Procedures.**
